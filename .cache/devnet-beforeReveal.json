@@ -1,0 +1,62 @@
+{
+    "program": {
+        "uuid": "4upHVe",
+        "candyMachine": "4upHVefkGVXeoaaeZAb1djgdUdUD9ZUmnL5oRNyvED49",
+        "collection": "Gb87oVMD9aBaRtYjmD9TDoUEUWPgicHhZLunEPzzkq6L"
+    },
+    "items": {
+        "0": {
+            "link": "https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+            "name": "cuitipi_30",
+            "onChain": false
+        },
+        "1": {
+            "link": "https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+            "name": "cuitipi_1",
+            "onChain": false
+        },
+        "2": {
+            "link": "https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+            "name": "cuitipi_2",
+            "onChain": false
+        },
+        "3": {
+            "link": "https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+            "name": "cuitipi_3",
+            "onChain": false
+        },
+        "4": {
+            "link": "https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+            "name": "cuitipi_4",
+            "onChain": false
+        },
+        "5": {
+            "link": "https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+            "name": "cuitipi_5",
+            "onChain": false
+        },
+        "6": {
+            "link": "https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+            "name": "cuitipi_6",
+            "onChain": false
+        },
+        "7": {
+            "link": "https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+            "name": "cuitipi_7",
+            "onChain": false
+        },
+        "8": {
+            "link": "https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+            "name": "cuitipi_8",
+            "onChain": false
+        },
+        "9": {
+            "link": "https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+            "name": "cuitipi_9",
+            "onChain": false
+        }
+    },
+    "env": "devnet",
+    "cacheName": "temp",
+    "startDate": "62344a10"
+}

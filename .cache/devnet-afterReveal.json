@@ -1,0 +1,62 @@
+{
+    "program": {
+        "uuid": "4upHVe",
+        "candyMachine": "4upHVefkGVXeoaaeZAb1djgdUdUD9ZUmnL5oRNyvED49",
+        "collection": "Gb87oVMD9aBaRtYjmD9TDoUEUWPgicHhZLunEPzzkq6L"
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/2AXlP2HuQFiAxmKzVHxHcW8GP1Smtu1JaVjrSwYyPXA",
+            "name": "cuitipi_30",
+            "onChain": false
+        },
+        "1": {
+            "link": "https://arweave.net/9DtrVpF6Dbuvx0CVWDWoo_HV9SOdS6RxUTZdNgfSTrk",
+            "name": "cuitipi_1",
+            "onChain": false
+        },
+        "2": {
+            "link": "https://arweave.net/2pgIFgsPY3tTs8KDRheRI-WUGcuTnpVFagIZQZaOYYc",
+            "name": "cuitipi_2",
+            "onChain": false
+        },
+        "3": {
+            "link": "https://arweave.net/nuRRxd-Hsa4dGpFDTEss8-1LZmUa5KnDWOiKlQ_tqVo",
+            "name": "cuitipi_3",
+            "onChain": false
+        },
+        "4": {
+            "link": "https://arweave.net/Cf3BROJKMF9B9bI0gKE9gSK_Bw6rMh41VTmJVgYNgJ8",
+            "name": "cuitipi_4",
+            "onChain": false
+        },
+        "5": {
+            "link": "https://arweave.net/vTcTOeQjs4_cLDyOwIA1dW-3pR5H1rucKNLKT79S_Sg",
+            "name": "cuitipi_5",
+            "onChain": false
+        },
+        "6": {
+            "link": "https://arweave.net/VJRxA2muSN6cvR1y9u5jck9VJVzZ2VKtvhqLgwB2eb0",
+            "name": "cuitipi_6",
+            "onChain": false
+        },
+        "7": {
+            "link": "https://arweave.net/Lnp_DfxYTna2KMRCek-45I9qtuXr--1WoX190p2bGhw",
+            "name": "cuitipi_7",
+            "onChain": false
+        },
+        "8": {
+            "link": "https://arweave.net/_zCYAR5k3spX0FP_yo9wqXwuDDS8GOuYSbmiWt7D84I",
+            "name": "cuitipi_8",
+            "onChain": false
+        },
+        "9": {
+            "link": "https://arweave.net/kK7SwBvy6w7bz_E8m7DzyxBnDTqdzDNO_zrOSZR-4ZU",
+            "name": "cuitipi_9",
+            "onChain": false
+        }
+    },
+    "env": "devnet",
+    "cacheName": "temp",
+    "startDate": "62344a10"
+}
