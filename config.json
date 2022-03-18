@@ -1,0 +1,31 @@
+{
+  "price": 0.1,
+  "number": 10,
+  "gatekeeper": {
+    "gatekeeperNetwork": "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
+    "expireOnUse": true
+  },
+  "solTreasuryAccount": "9EUuJUe1TyuN3Qh7oNrNX4iqQzpAfqDMsu58axoozEis",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "19 Mar 2022 05:00:00 EDT",
+  "endSettings": null,
+  "whitelistMintSettings": {
+    "mode" : { "burnEveryTime": true },
+    "mint" : "5LKhPvWb1HTTaEwBbDXBUCjWh9HGckJbPhngbNbNJ3v2",
+    "presale" : true,
+    "discountPrice" : null
+  },
+  "hiddenSettings": {
+    "name":"My Hidden Collection ",
+    "uri":"https://msdw535cmekfyqeisbiaykgj6qdmpkrhsbqwtkulmllb3q5elksq.arweave.net/ZIdu76JhFFxAiJBQDCjJ9AbHqieQYWmqi2LWHcOkWqU",
+    "hash":"1215923ee13faf271897efda0fe68ed95cd293ecd808064bbdc74834dedb6cf9"
+  },
+  "storage": "arweave",
+  "ipfsInfuraProjectId": null,
+  "ipfsInfuraSecret": null,
+  "awsS3Bucket": null,
+  "nftStorageKey": null,
+  "noRetainAuthority": false,
+  "noMutable": false
+}
